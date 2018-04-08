@@ -4,11 +4,10 @@ Even though we already know [the answer](https://www.youtube.com/watch?v=aboZctr
 
 > __"Who's gonna win the Oscar?"__
   
-I thought of asking __Deep Thought"__. Well, you [know.](https://www.youtube.com/watch?v=ucKnpvPaAeM).
+I thought of asking __Deep Thought"__. Well, you [know.]
 
 So I took this project to predict the __90th Academy Awards winners (2018)__ with the help of machine learning algorithms. 
 
-[Click ahead to skip to see what's in my results box](https://www.youtube.com/watch?v=f9ypxDxlK0c)
 
 # Data
 
@@ -29,7 +28,7 @@ The categories considered for the project are:
 * Data Cleaning 
 * Preliminary Analysis 
 
-[Both Done](https://www.youtube.com/watch?v=0tJGk4ofc18).
+[Both Done]
 
 The corresponding code and the jupyter notebook are provided in the analysis folder.
 
